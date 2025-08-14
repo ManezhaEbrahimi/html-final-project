@@ -1,0 +1,16 @@
+body{
+    background-color: #E4EFE7;
+}
+fieldset{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #EFF3EA;
+    background-color:#FFFDF0;
+}
+form{
+    float:left;
+    width: 30%;
+}
+aside{
+    float: right;
+}

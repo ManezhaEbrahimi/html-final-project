@@ -1,0 +1,15 @@
+
+form{
+    
+    float:left;
+    width: 40%;
+}
+fieldset{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #c2d7c7;
+    background-color: #FAF1E6;
+}
+body{
+    background-color: #E4EFE7;
+}
